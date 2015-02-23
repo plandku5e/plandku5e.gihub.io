@@ -35,8 +35,8 @@ navbar_color: "caribbean-green"
 # Image Hero
 # -------------------------
 
-title:            "Kunstnerisk"
-tagline:      	  "a responsive bootstrap three theme for jekyll"
+title:            "PlanD Logistics"
+tagline:      	  "Logistics solutions for your business."
 
 # Features Thumbs
 # -------------------------
@@ -71,8 +71,8 @@ features_thumbs:
 # -------------------------
 
 blockquote: 
-   text: "We develop online marketing solutions that help enterprises accurately identify the consumers that truly need their services."
-   tagline: "Serving the community since 2014"
+   text: "We develop online logistics solutions that help enterprises accurately identify the availability of your resources in a timely and efficient manner."
+   tagline: "Making your business more efficient"
    button_text: "Read More"
    button_url: "#_"
 
@@ -133,10 +133,10 @@ work_thumbs:
 contact:
    latitude: "37.3321722"
    longitude: "-122.0305748"
-   marker_title: "Apple Incorporated."
-   marker_address: "1 Infinite Loop Cupertino, CA 95014"
-   phone_number: "(321) 402-1098"
-   email_address: "hello@kunstnerisk.com"
+   marker_title: "PlanD Logistics."
+   marker_address: "Downtown Orlando"
+   phone_number: "(407) 555-1212"
+   email_address: "ku5e@ku5e.com"
 
 # Configuration
 # -------------------------
