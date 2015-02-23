@@ -1,0 +1,153 @@
+# Custom vars
+# -------------------------
+
+current_version:  1.0.0
+name: 			  Kunstnerisk
+
+# Main Logo
+# -------------------------
+
+logo_regular: "media/logo/logo_regular.png"
+logo_small_devices: "media/logo/logo_small.png"
+
+
+# Main Navigation Links
+# -------------------------
+
+navbar_links:
+  - title: "Home"
+    url: "#image-hero"
+  - title: "Features"
+    url: "#features"
+  - title: "Services"
+    url: "#services"
+  - title: "Work"
+    url: "#work"    
+  - title: "Pricing Tables"
+    url: "#pricing-tables"
+  - title: "Contact"
+    url: "#contact"
+
+# Navigation Background Color. 
+# Options: caribbean-green, summer-sky, golden-poppy, deep-carmine-pink
+navbar_color: "caribbean-green"
+
+# Image Hero
+# -------------------------
+
+title:            "Kunstnerisk"
+tagline:      	  "a responsive bootstrap three theme for jekyll"
+
+# Features Thumbs
+# -------------------------
+
+features_thumbs:
+  - title: "Clean Code"
+    icon: "code"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Build with Jekyll"
+    icon: "flask"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Unique Design"
+    icon: "file-image-o"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Responsive"
+    icon: "mobile"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Easy Color Change"
+    icon: "bolt"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "439 Icons"
+    icon: "flag"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Google Maps"
+    icon: "map-marker"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Fullscreen Background"
+    icon: "expand"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+
+# Blockquote
+# -------------------------
+
+blockquote: 
+   text: "We develop online marketing solutions that help enterprises accurately identify the consumers that truly need their services."
+   tagline: "Serving the community since 2014"
+   button_text: "Read More"
+   button_url: "#_"
+
+# Services
+# -------------------------
+
+services:
+ - title: "Front-End Development"
+   icon: "desktop"
+   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."
+ - title: "iOS Development"
+   icon: "apple"
+   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."
+ - title: "UI/UX Design"
+   icon: "magic"
+   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."      
+
+# Work Mosaic
+# -------------------------
+
+work_thumbs:
+ - title: "Maxime Corporis Set"
+   description: "Fugit aut earum in sit, placeat quis consequatur."
+   url: "#_"
+   image: "media/img/work-01.jpg"
+ - title: "Veritatis Vel Recusandae"
+   description: "Fugit aut earum in sit, placeat quis consequatur."
+   url: "#_"
+   image: "media/img/work-02.jpg"
+ - title: "Consectetur Adipisicing"
+   description: "Fugit aut earum in sit, placeat quis consequatur."
+   url: "#_"
+   image: "media/img/work-03.jpg"
+ - title: "Asperiores Soluta"
+   description: "Fugit aut earum in sit, placeat quis consequatur."
+   url: "#_"
+   image: "media/img/work-04.jpg"
+ - title: "Officiis Aspernatur"
+   description: "Fugit aut earum in sit, placeat quis consequatur."
+   url: "#_"
+   image: "media/img/work-05.jpg"   
+ - title: "Soluta Asperiores"
+   description: "Fugit aut earum in sit, placeat quis consequatur."
+   url: "#_"
+   image: "media/img/work-06.jpg"
+ - title: "Adipisicing Consectetur"
+   description: "Fugit aut earum in sit, placeat quis consequatur."
+   url: "#_"
+   image: "media/img/work-07.jpg"
+ - title: "Maxime Corporis Set"
+   description: "Fugit aut earum in sit, placeat quis consequatur."
+   url: "#_"
+   image: "media/img/work-08.jpg"
+
+# Contact
+# -------------------------
+
+contact:
+   latitude: "37.3321722"
+   longitude: "-122.0305748"
+   marker_title: "Apple Incorporated."
+   marker_address: "1 Infinite Loop Cupertino, CA 95014"
+   phone_number: "(321) 402-1098"
+   email_address: "hello@kunstnerisk.com"
+
+# Configuration
+# -------------------------
+
+# Dependencies
+pygments: 		  false
+
+# Permalinks
+permalink: 		  none
+
+# Server
+destination: 	  ../kunstnerisk
+exclude: 		  [".gitignore", "Gruntfile.js", "node_modules", "package.json"]
+port: 			  1984
