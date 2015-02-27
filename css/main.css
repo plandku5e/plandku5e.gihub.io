@@ -787,7 +787,7 @@ filter:progid:DXImageTransform.Microsoft.gradient(enabled='false')
 	font-size: 30px;
 	font-weight: 300;
 	color: #f3f3f3;
-	background-color: #21caa3
+	background-color: #828fff
 }
 @media(min-width:768px) {
 .promo {
@@ -838,8 +838,8 @@ h2 {
 	transform: scale(1.2)
 }
 .featured .btn-default {
-	color: #1a9f7f;
-	border-color: #1a9f7f
+	color: #828fff;
+	border-color: #828fff
 }
 .featured .btn-default:hover {
 	color: #414c8b;
